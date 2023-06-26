@@ -1,8 +1,8 @@
 # Python-Conutdown
-Python simple countdown
+** Python simple countdown **
 # Usage
 Run in the folder where the script is:
 
-py countdown.py
+> py countdown.py
 
-Enter the amount of seconds and wait :)
+** Enter the amount of seconds and wait :) **
